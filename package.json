@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@testcontainers/kafka": "^10.26.0",
+    "jest": "^29.7.0",
+    "kafkajs": "^2.2.4"
+  },
+  "name": "kafka-jest-integration",
+  "version": "1.0.0",
+  "main": "kafka-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
