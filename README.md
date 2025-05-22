@@ -8,6 +8,7 @@
 2. Install the dependencies
    ```sh
    npm install
+   npm i jest-cli -g
    ```
 3. Export environment variable to avoind showing some warning messages related to newer version of kafkajs
    ```sh
